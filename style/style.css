@@ -3,14 +3,14 @@
     /* CSS Variables */
     
      :root {
-        --primary-color: #E51102;
-        --secondary-color: #02F2E6;
+        --primary-color: #000000;
+        --secondary-color: #000000;
         --default-margin: 16px 32px;
         --text-color: white;
         --secondary-text-color: #777;
-        --background-primary: rgb(77, 0, 0);
-        --background-secondary: rgb(123, 0, 0);
-        --background-dark: rgb(173, 0, 0);
+        --background-primary: rgb(0, 0, 0);
+        --background-secondary: rgb(77, 0, 0);
+        --background-dark: rgb(15, 15, 15);
     }
     
     @font-face {
